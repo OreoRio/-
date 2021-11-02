@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Bae à!!',
-    introDesc: `I'm takin'a chance
+    introDesc: `Im takin a chance
     Cause I like you alot
-    So I'll give it a shot
+    So I ll give it a shot
     Give it all that I got
     Ladedadeda :))
     So love me babe:(`,
@@ -18,4 +18,4 @@ const CONFIG = {
     messDesc: 'Làm người yêu mình nhé? :D',
     btnAccept: 'Okiiiii lun <3',
     messLink: ' https://tranguynder.com '.
-}
+
