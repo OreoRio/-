@@ -4,12 +4,12 @@ const CONFIG = {
     Cause I like you alot
     So I ll give it a shot
     Give it all that I got
-    Ladedadeda :))
+    Ladedadeda:))
     So love me babe:(`,
-    btnIntro: 'love you forever:))',
+    btnIntro: 'love you forever forever:))',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'etou..tớ thích cậu:<',
+    btnYes: 'etou tớ thích cậu:<',
     btnNo: 'Không, mình không thích cậu :(((',
     question:':< Trên thế giới hơn 7 tỷ ngừi shao cậu lại thích mềnh',
     btnReply: 'Gửi cho mình :D',
@@ -17,5 +17,5 @@ const CONFIG = {
     mess: 'Tớ đợi câu nì lâu lắm ùi🥰. Yêu cậu nhiều nhiều :)))',
     messDesc: 'Làm người yêu mình nhé? :D',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://tranguynder.com '.
+    messLink: 'https://thànder.com'.
 
