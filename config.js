@@ -17,5 +17,5 @@ const CONFIG = {
     mess: 'Tớ đợi câu nì lâu lắm ùi🥰. Yêu cậu nhiều nhiều :)))',
     messDesc: 'Làm người yêu mình nhé? :D',
     btnAccept: 'Okiiiii lun <3',
-    messLink: ' https://tranguynder.com '.
+    messLink: 'https://tranguynder.com '.
 
